@@ -1,5 +1,5 @@
 How are you?
 
-func blahblah() {
-    
+func blahblah(int b) {
+    b = 2;
 }
